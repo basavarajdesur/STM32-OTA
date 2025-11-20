@@ -1,8 +1,9 @@
 {
   "link": "https://raw.githubusercontent.com/GleissonAlmeida/STM32-OTA/main/build/LED_BLNK.bin",  
-  "Mandatory": false,
+  "Mandatory": true,
   "sw" :3.0
   }
+
 
 
 
